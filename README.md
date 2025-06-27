@@ -7,5 +7,6 @@ Con las funciones desarrolladas y la interfaz gráfica, el usuario puede:
 3) Insertar y eliminar registros de forma controlada.
 4) Editar celdas directamente desde la grilla.
 5) Exportar consultas personalizadas a excel.
+
 Se guarda toda la actividad de los usuarios en un archivo de logs, por si se quiere indagar el comportamiento de uno en particular.
 Además, cuenta con un backup automático (cada vez que se realiza un login), así en caso de borrar datos sin querer, se pueden recuperar de manera simple.
