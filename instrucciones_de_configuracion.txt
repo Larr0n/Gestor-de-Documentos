@@ -1,0 +1,19 @@
+==================================
+Pasos para configurar el proyecto: 
+==================================
+1)Descargar python (última versión) si es que no lo tienen
+2)Descargar postgresql (última versión) y configurarlo a su gusto (contraseñas, puertos, etc)
+3)Descargar las librerías necesarias (se encuentran en el requirements.txt)
+
+=============================
+Configuración del config.ini: 
+=============================
+1)Crear un archivo como "config.ini".
+2)Dentro del archivo, completar con los datos requeridos (que configuraste previamente) con la siguiente sintaxis:
+[database]
+host=
+port=
+database=
+user=
+password=
+3)Guardarlo  dentro de la carpeta db
