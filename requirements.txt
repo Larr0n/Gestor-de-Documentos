@@ -1,0 +1,10 @@
+psycopg2-binary
+configparser
+tksheet
+ttkbootstrap
+pandas 
+openpyxl
+ttkbootstrap
+pillow
+passlib[bcrypt]
+fastapi
