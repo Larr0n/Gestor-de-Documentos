@@ -1,0 +1,3 @@
+Estos 2 archivos están para crear y eliminar las tablas. 
+Ejecutando el crear_tabla, se van a crear las tablas de usuarios y la tabla prinicpal que almacena toda la info.
+Con eliminar_tabla, vas a eliminar ambas tablas (o la que vos quieras).
