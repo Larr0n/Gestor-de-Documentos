@@ -17,3 +17,10 @@ database=
 user=
 password=
 3)Guardarlo  dentro de la carpeta db
+
+==================================
+Configuración de la Base de Datos: 
+==================================
+1)Usé la base de datos por default de postgre (lo podes cambiar y modificar el config.ini)
+2)Las tablas no se crean automáticamente, así que se debe ejecutar el crear_tabla.py para establecer  las tablas de 
+usuarios y certificados (donde se almacenan todos los datos).
